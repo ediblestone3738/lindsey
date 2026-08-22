@@ -6,5 +6,30 @@
     <description>Recent content on Lindsey Photography</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Lindsey</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Nature</title>
+      <link>//localhost:1313/nature/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/nature/</guid>
+        <media:content url="//localhost:1313/nature/2_hu_d82cd05c6382990d.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/nature/2_hu_d82cd05c6382990d.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Planes</title>
+      <link>//localhost:1313/planes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/planes/</guid>
+        <media:content url="//localhost:1313/planes/1_hu_4f18b0e96a06ddf.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/planes/1_hu_4f18b0e96a06ddf.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
   </channel>
 </rss>

@@ -7,6 +7,18 @@ theme = "hugo-theme-gallery"
   showExif = false
 
 [menu]
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 0
+
   [[menu.main]]
     name = "About"
     url = "/about/"
+    weight = 1
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
