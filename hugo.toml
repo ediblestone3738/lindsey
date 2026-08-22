@@ -1,0 +1,12 @@
+baseURL = "/"
+languageCode = "en-gb"
+title = "Lindsey Photography"
+theme = "hugo-theme-gallery"
+
+[params]
+  showExif = false
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
